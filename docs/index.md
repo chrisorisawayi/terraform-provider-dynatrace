@@ -2,7 +2,7 @@
 layout: ""
 page_title: "Provider: Dynatrace"
 description: |-
-  The Dynatrace Terraform Provider provides resources to interact with the Dynatrace Config REST API.
+  The Dynatrace Terraform Provider provides resources to interact with the Dynatrace Config REST API..
 ---
 
 # Dynatrace Terraform Provider
